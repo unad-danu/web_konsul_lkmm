@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@700;800&display=swap');
 
-/* --- RESET & BASE --- */
+/* BASE */
 * {
     margin: 0; padding: 0; box-sizing: border-box;
     font-family: 'Plus Jakarta Sans', sans-serif;
@@ -17,7 +17,7 @@ body {
     margin: 0;
 }
 
-/* --- FIXED ADMIN LINK (Sisi Kiri Vertikal) --- */
+/* FIXED ADMIN LINK */
 .admin-side-link {
     position: absolute;
     left: 0;

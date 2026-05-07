@@ -44,7 +44,7 @@
 
             <h3 style="margin-top: 40px; margin-bottom: 20px;">Daftar Slot Terpublikasi</h3>
             <div id="admin-jadwal-list" class="table-container-neo">
-                <!-- Data Jadwal Otomatis Muncul di Sini -->
+                <!-- Jadwal Aktif Akan Muncul di Sini -->
             </div>
         </div>
 
