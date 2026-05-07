@@ -1,10 +1,10 @@
 /* ============================================================
     1. KONFIGURASI & KONEKSI SUPABASE
    ============================================================ */
-
 const sbUrl = "https://your-supabase-url.supabase.co"; // Ganti dengan URL Supabase Anda
 const sbKey = "your-supabase-anon-key"; // Ganti dengan Anon Key Supabase Anda
 
+if (typeof sbClient === 'undefined') {
     var sbClient = window.supabase.createClient(sbUrl, sbKey);
 }
 
